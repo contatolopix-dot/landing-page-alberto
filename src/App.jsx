@@ -94,7 +94,7 @@ const App = () => {
       <section className="bg-white border-b border-gray-100 relative z-30 -mt-8 mx-4 md:mx-auto max-w-5xl rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] py-8 px-6 lg:px-12 grid grid-cols-1 md:grid-cols-3 gap-8 text-center divide-y md:divide-y-0 md:divide-x divide-gray-100">
         <div className="flex flex-col items-center justify-center p-4">
           <TrendingUp className="w-8 h-8 text-[#e60000] mb-3" />
-          <h3 className="text-4xl font-bold text-navy">13+ Anos</h3>
+          <h3 className="text-4xl font-bold text-navy">15+ Anos</h3>
           <p className="text-gray-500 font-medium mt-1">de Experiência</p>
         </div>
         <div className="flex flex-col items-center justify-center p-4">
