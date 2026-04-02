@@ -201,7 +201,7 @@ const App = () => {
               <h3 className="text-2xl font-bold text-navy mb-2">Para quem Compra</h3>
               <p className="text-gray-600 mb-8 flex-grow text-lg leading-relaxed">
                 Acesso aos melhores imóveis do mercado, negociação implacável e
-                acomhamento até à escritura.
+                acompanhamento até à escritura.
               </p>
               <button
                 onClick={() => openWhatsApp(whatsappBuy)}
